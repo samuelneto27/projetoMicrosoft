@@ -1,0 +1,28 @@
+C:\Users\joao.piotto\source\repos\Aula06\Controller\bin\Debug\Controller.dll
+C:\Users\joao.piotto\source\repos\Aula06\Controller\bin\Debug\Controller.pdb
+C:\Users\joao.piotto\source\repos\Aula06\Controller\bin\Debug\Model.dll
+C:\Users\joao.piotto\source\repos\Aula06\Controller\bin\Debug\MySql.Data.dll
+C:\Users\joao.piotto\source\repos\Aula06\Controller\bin\Debug\Google.Protobuf.dll
+C:\Users\joao.piotto\source\repos\Aula06\Controller\bin\Debug\Renci.SshNet.dll
+C:\Users\joao.piotto\source\repos\Aula06\Controller\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joao.piotto\source\repos\Aula06\Controller\bin\Debug\Model.pdb
+C:\Users\joao.piotto\source\repos\Aula06\Controller\bin\Debug\MySql.Data.xml
+C:\Users\joao.piotto\source\repos\Aula06\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\joao.piotto\source\repos\Aula06\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\joao.piotto\source\repos\Aula06\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\joao.piotto\source\repos\Aula06\Controller\obj\Debug\Controller.dll
+C:\Users\joao.piotto\source\repos\Aula06\Controller\obj\Debug\Controller.pdb
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\Controller\bin\Debug\Controller.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\Controller\bin\Debug\Controller.pdb
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\Controller\bin\Debug\Model.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\Controller\bin\Debug\MySql.Data.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\Controller\bin\Debug\Google.Protobuf.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\Controller\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\Controller\bin\Debug\Renci.SshNet.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\Controller\bin\Debug\Model.pdb
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\Controller\bin\Debug\MySql.Data.xml
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\Controller\obj\Debug\Controller.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\Controller\obj\Debug\Controller.pdb

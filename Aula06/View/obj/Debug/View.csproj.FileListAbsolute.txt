@@ -1,0 +1,134 @@
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\View.dll.config
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\View.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\View.pdb
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\csc.exe
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\csc.exe.config
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\csc.rsp
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\csi.exe
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\csi.exe.config
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\csi.rsp
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.AppContext.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Console.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.IO.Compression.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.IO.Pipes.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Security.Claims.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Threading.Thread.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.ValueTuple.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Xml.XPath.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\vbc.exe
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\vbc.exe.config
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\vbc.rsp
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\VBCSCompiler.exe
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\Controller.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\Model.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\MySql.Data.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\Google.Protobuf.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\Renci.SshNet.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\BouncyCastle.Crypto.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\Controller.pdb
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\Model.pdb
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\MySql.Data.xml
+C:\Users\joao.piotto\source\repos\Aula06\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\joao.piotto\source\repos\Aula06\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\joao.piotto\source\repos\Aula06\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\joao.piotto\source\repos\Aula06\View\obj\Debug\View.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\obj\Debug\View.pdb
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\View.dll.config
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\View.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\View.pdb
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\csc.exe
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\csc.exe.config
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\csc.rsp
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\csi.exe
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\csi.exe.config
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\csi.rsp
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.AppContext.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.Console.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.IO.Compression.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.IO.Pipes.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.Security.Claims.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.Threading.Thread.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.ValueTuple.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.Xml.XPath.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\vbc.exe
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\vbc.exe.config
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\vbc.rsp
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\VBCSCompiler.exe
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\Controller.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\Model.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\MySql.Data.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\Google.Protobuf.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\BouncyCastle.Crypto.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\Renci.SshNet.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\Controller.pdb
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\Model.pdb
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\bin\MySql.Data.xml
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\obj\Debug\View.dll
+C:\Users\samud\Desktop\Faculdade Positivo\Desenvolvimento Microsoft\Trabalho 2º bim - Samuel Neto\Aula06\View\obj\Debug\View.pdb
